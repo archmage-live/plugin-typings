@@ -1,0 +1,28 @@
+{
+  "name": "@archmagelive/plugin-typings",
+  "version": "1.0.0",
+  "description": "Typings for the Figma Plugin API",
+  "main": "",
+  "scripts": {
+    "format": "prettier --write -- *.ts",
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archmage-live/plugin-typings.git"
+  },
+  "keywords": [
+    "archmage",
+    "plugin",
+    "typings"
+  ],
+  "author": "The Archmage team",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/archmage-live/plugin-typings/issues"
+  },
+  "homepage": "https://github.com/archmage-live/plugin-typings#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
